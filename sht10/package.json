@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "async": "^2.6.1",
+    "dotenv": "^6.2.0",
+    "mongodb": "^3.1.10",
+    "mongoose": "^5.4.1",
+    "node-cron": "^2.0.3",
+    "pi-sht1x": "^0.0.1",
+    "pm2": "^3.2.4"
+  }
+}
